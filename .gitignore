@@ -103,3 +103,6 @@ ENV/
 # ignore data folder
 /data
 
+# ignore .DS_Store
+.DS_Store
+
