@@ -7,7 +7,7 @@
 
 ## Installing Jupyter using Anaconda and conda (new users)
 
-The workshop tutorials are provided as Jupyter Notebooks, which are executable documents containing both code and documentation. To use these tutorials you will first need to install Jupyter. 
+The workshop tutorials are provided as Jupyter Notebooks, which are executable documents containing both code and documentation. To use these tutorials you will first need to install Jupyter. The following instructions are taken from the [Jupyter website](http://jupyter.readthedocs.io/en/latest/install.html).
 
 For new users of Jupyter, we recommend installing Anaconda. Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
 
@@ -33,7 +33,7 @@ Then install the Jupyter Notebook using:
 
 `pip3 install jupyter`
 
-
+NB: (Use `pip` if using Python 2.)
 
 
 
